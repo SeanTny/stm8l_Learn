@@ -1,0 +1,11 @@
+SX1212支持单点唤醒的433M无线模块E33-TTL-20用户手册
+https://wenku.baidu.com/view/c5521431a66e58fafab069dc5022aaea998f4188.html
+
+基于超低功耗无线芯片SX1212的无线数传模块设计
+https://wenku.baidu.com/view/770cbc33a98271fe910ef964.html
+
+STM8L的低功耗模式的配置
+https://blog.csdn.net/chenqt123/article/details/73848798
+https://blog.csdn.net/chenqt123/article/details/73848798
+
+
